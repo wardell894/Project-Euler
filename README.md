@@ -1,2 +1,2 @@
 # Project-Euler
-project Euler oppgave 1 til N
+Mitt forsøk på løse noen oppgaver. Hovedasaklig i python, men forhåpentligvis noen andre språk og etterhvert.
