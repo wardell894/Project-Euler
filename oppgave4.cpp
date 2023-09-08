@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include <iostream>
+#include <iostream> // dette var da ikke nødvendig
 #include <vector>
 #include <string>
 
@@ -11,7 +11,7 @@ string reverseStr(string& str, int n, int i)
     if (n <= i) {
         return str;
     }
-    swap(str[i], str[n]);
+    swap(str[i], str[n]); // se på denne metoden etterhvert
     return reverseStr(str, n - 1, i + 1);
 }
 
