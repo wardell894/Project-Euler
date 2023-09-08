@@ -2,6 +2,7 @@
 #include <vector>
 #include <numeric> 
 
+
 using namespace std;
 
  bool erPrimtall(int N){
